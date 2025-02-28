@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href=[www.linkedin.com/in/grayden-cooper-7a374a345](https://www.linkedin.com/in/grayden-cooper/)">Grayden!</a>☺</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/grayden-cooper/">Grayden!</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
