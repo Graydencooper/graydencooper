@@ -1,11 +1,6 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/grayden-cooper/">Grayden!</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/graydencooper/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/graydencooper/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/graydencooper/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/graydencooper/configure-ad)
   - [Setting Account Lockout Conditions Using Group Policy](https://github.com/graydencooper/azure-network-protocols)
